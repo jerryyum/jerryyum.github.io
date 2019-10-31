@@ -6,8 +6,8 @@
 # Site
 title: vSpace
 subtitle:
-description: Student in Sun Yat-sen University, China. Major in computer science.
-author: Benson Yan
+description: Jerryyum, China. Major in computer science.
+author: Jerryyum
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -238,7 +238,7 @@ social_icons:
 
 
 # Sidebar Avatar
-in directory: 
+in directory:
 avatar: assets/portrait.jpg
 
 
